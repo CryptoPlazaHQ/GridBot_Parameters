@@ -9,3 +9,4 @@ bcrypt
 tradingview_ta
 pyyaml
 tenacity>=8.2.0
+matplotlib
